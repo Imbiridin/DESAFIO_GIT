@@ -7,3 +7,5 @@ Meu terceiro commit
 feature-b.1
 
 feature-a
+
+feature-a.1
